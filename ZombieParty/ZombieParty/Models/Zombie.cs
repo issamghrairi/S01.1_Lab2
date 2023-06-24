@@ -2,9 +2,9 @@
 {
     public class Zombie
     {
-            string Name { get; set; }
-            string Type { get; set; }
-            int Point { get; set; }
+          public string Name { get; set; }
+        public string Type { get; set; }
+        public int Point { get; set; }
 
     }
 }
